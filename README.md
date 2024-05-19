@@ -30,5 +30,6 @@
 
 ## ☑️ 프로젝트 결과
 ![minitalk](https://github.com/exceed96/Personal_42Minitalk/assets/90549959/b1546f1f-ee54-48d4-9e0b-c1a3dda17428)
+<br />
 <img width="205" alt="스크린샷 2024-05-19 오전 11 25 06" src="https://github.com/exceed96/Personal_42Minitalk/assets/90549959/7c09c03c-c823-4248-8ff4-b4f6ef56c58d">
 
